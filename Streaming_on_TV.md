@@ -5,7 +5,7 @@ We can use TV player as Security Camera (IP Camera) monitor, just connect unused
 
 ## Steps
 1. login KODI
-2. Make .strm file with just one line as rtsp URL, for example:
+2. Make .strm file with just one line as rtsp URL, for example:  
 ```bash:IPCAM.strm
 rtsp://admin:admin@192.168.1.3/11
 ```
