@@ -23,6 +23,6 @@ I've seen 2 second delay.
 - [KNEWMART ONVIF720HD IP Camera](https://www.amazon.co.jp/gp/product/B06X3YVBF5/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1)
 - [Hitachi L37-H07](http://av.hitachi.co.jp/tv/woooh07/spec/37v.html)
 
-## References
+## Bibliography
 - [How to Stream a Security Camera using RTSP & KODI on Raspberry Pi.](https://www.arcdyn.com/articles/how-to-stream-a-security-camera-using-rtsp-kodi-on-raspberry-pi/) I've learn this from this post.
 
