@@ -1,0 +1,11 @@
+graph LR
+  subgraph use router
+    id1[IP Camera]--Ether or WiFi-->id2[router]
+    id2--Ether or WiFi-->id3[RPi]
+    id3--HDMI or RCA-->id4[TV]
+  end
+
+  subgraph use RPi as router
+    id5[IP Camera]--Ether or WiFi-->id6[RPi]
+    id6--HDMI or RCA-->id7[TV]
+  end

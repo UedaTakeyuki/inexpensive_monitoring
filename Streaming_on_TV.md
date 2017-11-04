@@ -1,7 +1,13 @@
 # The movie from IP Camera can play on TV player with Raspberry Pi running KODI.
 
 ## Summary
-We can use TV player as Security Camera (IP Camera) monitor, just connect unused HDMI or RCN cable with Raspberry Pi running KODI.
+We can use TV player as Security Camera (IP Camera) monitor with Raspberry Pi running KODI.
+
+## Network
+1. TV and RPi are connected by HDMI or RCA cable.
+2. RPi and IP Camera are connected by Ether or WiFi via router, or without router(with setting RPi as working router).
+![Network](mermaid/IPCAM_router_RPi_TV.png)
+
 
 ## Steps
 1. login KODI

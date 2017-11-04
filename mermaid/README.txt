@@ -1,0 +1,1 @@
+mmdc -i INPUT -o INPUT.png
