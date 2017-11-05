@@ -32,5 +32,6 @@ About 2 second delays are observed.
 - [Hitachi L37-H07](http://av.hitachi.co.jp/tv/woooh07/spec/37v.html)
 
 ## Bibliography
-- [How to Stream a Security Camera using RTSP & KODI on Raspberry Pi.](https://www.arcdyn.com/articles/how-to-stream-a-security-camera-using-rtsp-kodi-on-raspberry-pi/) I've learn this from this post.
+- [How to Stream a Security Camera using RTSP & KODI on Raspberry Pi.](https://www.arcdyn.com/articles/how-to-stream-a-security-camera-using-rtsp-kodi-on-raspberry-pi/)   
+I've learn this from this post.
 

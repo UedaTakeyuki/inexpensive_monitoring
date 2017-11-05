@@ -9,7 +9,7 @@
     * [Virtual Private Server]
     * [Software]
 * [Video Streaming]
-  * [Basic architecture design]
+  * [Basic architecture design](BA_streaming.md)
   * [case studies]
     * [Streaming on TV](Streaming_on_TV.md)
     * [Streaming on Web]
