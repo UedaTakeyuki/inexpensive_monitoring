@@ -20,7 +20,9 @@ rtsp://admin:admin@192.168.1.3/11
 4. Play the .strm file
 
 ## Delay
-I've seen 2 second delay.
+About 2 second delays are observed.  
+<img src="pic/ss.2017-11-05 10.59.12.png" width="35%">  
+[Watch the video](https://youtu.be/mTEhOk-V3kU)
 
 
 ## Confirmed Environment
