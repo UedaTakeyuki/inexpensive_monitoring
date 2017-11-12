@@ -11,8 +11,9 @@
 * [Video Streaming]
   * [Basic architecture design](BA_streaming.md)
   * [case studies]
-    * [Streaming on TV](Streaming_on_TV.md)
-    * [Streaming on Web]
+    * [Streaming to the TV display](Streaming_on_TV.md)
+    * [Streaming to the PC and Mobiles]
+    * [Streaming to the Web Browsers]
 * [Picture Data]
 * [Sensor Data]
 * [Software]

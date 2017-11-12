@@ -1,7 +1,7 @@
 # The movie from IP Camera can play on TV player with Raspberry Pi running KODI.
 
 ## Summary
-We can use TV player as Security Camera (IP Camera) monitor with Raspberry Pi running KODI.
+We can use TV player as Security Camera (IP Camera) monitor with Raspberry Pi running KODI, by just prepareing ".strm" file.
 
 ## Network
 1. TV and RPi are connected by HDMI or RCA cable.
