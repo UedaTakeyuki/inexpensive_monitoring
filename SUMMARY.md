@@ -11,7 +11,7 @@
 * [Video Streaming]
   * [Basic architecture design](BA_streaming.md)
   * [case studies]
-    * [Streaming to the TV display](Streaming_on_TV.md)
+    * [Streaming from IP Camera to home TV player with KODI running on the Raspberry Pi.](Streaming_on_TV.md)
     * [Streaming to the PC and Mobiles]
     * [Streaming to the Web Browsers]
 * [Picture Data]

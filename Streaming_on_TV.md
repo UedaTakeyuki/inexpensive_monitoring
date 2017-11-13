@@ -1,7 +1,11 @@
-# The movie from IP Camera can play on TV player with Raspberry Pi running KODI.
+# Streaming from IP Camera to home TV player with KODI running on the Raspberry Pi.
 
 ## Summary
-We can use TV player as Security Camera (IP Camera) monitor with Raspberry Pi running KODI, by just prepareing ".strm" file.
+This is one of the most easy monitoring system with inexpensive IP Camera, familiar TV player, and Raspberry Pi.  
+Almost all of the IP Camera support RTSP protocol for providing there streaming movie. Also the KODI, a Open Source Home Theater Software running on the Raspberry Pi can playback RTSP.
+So nessesary steps is just connect TV, Raspberry Pi and IP Camera, then tell RTSP address by making .strm definition file.
+
+KODI can support WiFi router feature as called "Tethering". So you can make this system both through existing router, or without existing router.
 
 ## Network
 1. TV and RPi are connected by HDMI or RCA cable.
@@ -24,6 +28,12 @@ About 2 second delays are observed.
 <img src="pic/ss.2017-11-05 10.59.12.png" width="35%">  
 [Watch the video](https://youtu.be/mTEhOk-V3kU)
 
+## Applicable situation
+In case cammeras are inside of the WiFi or LAN cable cover area, for examples:
+- Home door monitroring.
+- Garden monitroring.
+- Small manufacture monitoring.
+- Show a delicious-looking kichen works for a signage of restaurants.
 
 ## Confirmed Environment
 - Raspberry Pi 2
