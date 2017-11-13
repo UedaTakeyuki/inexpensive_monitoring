@@ -1,4 +1,4 @@
-# Streaming from IP Camera to home TV player with KODI running on the Raspberry Pi.
+# RTSP streaming from IP Camera to home TV player with KODI running on the Raspberry Pi.
 
 ## Summary
 This is one of the most easy monitoring system with inexpensive IP Camera, familiar TV player, and Raspberry Pi.  
