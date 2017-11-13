@@ -12,6 +12,33 @@ KODI can support WiFi router feature as called "Tethering". So you can make this
 2. RPi and IP Camera are connected by Ether or WiFi via router, or without router(with setting RPi as working router).
 ![Network](mermaid/IPCAM_router_RPi_TV.png)
 
+## KODI settings.
+### CASE: connect RPi and existing router with Ether
+- [My OSMC]-[Network]-[Wired]
+  - Enable Adapter ■
+
+### CASE: connect RPi and existing router with WiFi
+- [My OSMC]-[Network]-[Wireless]
+  - Enable Adapter ■
+  - Select appropriate router from the list of right hand side, and set pass key. 
+
+### CASE: no existing router, connect RPi and IPCAM directory with Ether
+- [My OSMC]-[Network]-[Wired]
+  - Enable Adapter ■
+- [My OSMC]-[Network]-[Wireless]
+  - Enable Adapter ■  (Note: stay without selecting any router)
+- [My OSMC]-[Network]-[Tethering]
+  - WiFi to Ethernet ■    
+  - Enable
+
+### CASE: no existing router, connect RPi and IPCAM directory with WiFi
+- [My OSMC]-[Network]-[Wired]
+  - Enable Adapter ■
+- [My OSMC]-[Network]-[Wireless]
+  - Enable Adapter ■  (Note: stay without selecting any router)
+- [My OSMC]-[Network]-[Tethering]
+  - Ethernet to WiFi ■    
+  - Enable
 
 ## Steps
 1. login KODI
@@ -28,7 +55,7 @@ About 2 second delays are observed.
 <img src="pic/ss.2017-11-05 10.59.12.png" width="35%">  
 [Watch the video](https://youtu.be/mTEhOk-V3kU)
 
-## Applicable situation
+## Applicable situations
 In case cammeras are inside of the WiFi or LAN cable cover area, for examples:
 - Home door monitroring.
 - Garden monitroring.

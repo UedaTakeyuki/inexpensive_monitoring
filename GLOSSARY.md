@@ -1,8 +1,8 @@
 # GLOSSARY
 
-- IP Camera  
-Internet protocol Camera, can be access from the internet. In general, provide picture by MJPEG protocol and movie by RTSP protocol.
-Some IP Camera's are controllable as pan, tilt, zoom, and so on by ONVIF protocol.
+- **IP Camera**  
+**Internet protocol Camera**, can be access from the internet, also called as **Security Camera**. In general, provide picture by **MJPEG** protocol and movie by **RTSP** protocol.
+Some IP Camera's are controllable as **pan**, **tilt**, **zoom**, and so on by **ONVIF** protocol.
 
-- RTSP  
+- **RTSP**  
 A real time streaming protocol defined as RFC2326. 
