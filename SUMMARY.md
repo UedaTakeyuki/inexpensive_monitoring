@@ -17,10 +17,10 @@
 * [Picture Data]
 * [Sensor Data]
 * [Software]
-  * [Client Side Software]
+  * [Device Side Software]
     * [ffmpeg] 
   * [Server Side Software]
     * [chart.js]
-    * [Server Side Client programming]
+    * [Server Side Device programming](SSD.md)
 * [GLOSSARY](GLOSSARY.md)
 * [version of source file](version.md)
